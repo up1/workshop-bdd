@@ -1,4 +1,4 @@
-package com.example.bdd;
+package com.example.bdd.normal;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
